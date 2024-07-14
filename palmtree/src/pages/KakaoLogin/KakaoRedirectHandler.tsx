@@ -35,7 +35,7 @@ const RedirectHandler = () => {
     }
   }, [location, navigate]);
 
-  return <div>로딩 중...</div>;
+  return <div>정보를 읽어오는 중...</div>;
 };
 
 export default RedirectHandler;
